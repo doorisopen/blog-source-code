@@ -1,6 +1,6 @@
-package dashboard;
+package assignment1.dashboard;
 
-import connection.MyConnection;
+import assignment1.connection.MyConnection;
 import org.kohsuke.github.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

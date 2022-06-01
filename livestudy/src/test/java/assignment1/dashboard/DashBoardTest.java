@@ -1,6 +1,6 @@
-package dashboard;
+package assignment1.dashboard;
 
-import connection.GitHubConnection;
+import assignment1.connection.GitHubConnection;
 import org.junit.jupiter.api.Test;
 
 class DashBoardTest {

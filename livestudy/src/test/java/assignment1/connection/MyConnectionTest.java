@@ -1,4 +1,4 @@
-package connection;
+package assignment1.connection;
 
 import org.junit.jupiter.api.Test;
 import org.kohsuke.github.GHIssue;

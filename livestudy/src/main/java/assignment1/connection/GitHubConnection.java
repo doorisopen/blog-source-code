@@ -1,4 +1,4 @@
-package connection;
+package assignment1.connection;
 
 import org.kohsuke.github.GitHub;
 

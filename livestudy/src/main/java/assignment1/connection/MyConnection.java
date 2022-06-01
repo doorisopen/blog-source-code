@@ -1,4 +1,4 @@
-package connection;
+package assignment1.connection;
 
 public interface MyConnection<T> {
     T connectToToken() throws Exception;
